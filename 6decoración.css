@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .titulo {
+    text-align: center;
+    border: 3px solid;
+    border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    border-image-slice: 1;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+
+.lista-enlaces {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .lista-enlaces li {
+    margin: 10px 0;
+  }
+  
+  .lista-enlaces a {
+    text-decoration: none;
+    color: #333; 
+    font-size: 18px;
+    
+  }
+  
+  .lista-enlaces a:hover {
+    color: red;
+  }
+  .footer p {
+    margin: 0;
+  }
