@@ -1,0 +1,110 @@
+.li {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+
+  .cuestion {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cuestion h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .cuestion ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cuestion li {
+    margin-bottom: 10px;
+    padding-left: 20px;
+  }
+  
+  .cuestion a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .cuestion b {
+    font-weight: bold;
+  }
+
+
+.lista-enlaces {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .lista-enlaces li {
+    margin-bottom: 10px;
+  }
+  
+  .lista-enlaces a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    transition: background-color 0.3s ease;
+  }
+  
+  .lista-enlaces a:hover {
+    background-color: red; 
+    color: white; 
+    border-color: red;}
+
+    .almrd {
+        background-color: #f9f9f9;
+        text-align: center;
+        padding: 20px;
+      }
+      
+      .lista-decos {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      .lista-decos li {
+        margin-bottom: 10px;
+      }
+      
+      .lista-decos a {
+        text-decoration: none;
+        color: #333;
+        font-size: 18px;
+        display: inline-block;
+        padding: 5px 10px;
+        border: 1px solid #ccc;
+        background-color: #f9f9f9;
+        transition: background-color 0.3s ease;
+      }
+      
+      .lista-decos a:hover {
+        background-color: #FF6600; 
+        color: white; 
+        border-color: #FF6600;
+      }
+      
+      .almrd p {
+        margin-top: 20px;
+        font-size: 18px;
+      }
+      .mensaje {
+        margin-top: 20px;
+        font-size: 24px; 
+        text-align: center; 
+      }
